@@ -1,0 +1,1 @@
+terser wx-rxjs.js --compress --mangle -o wx-rxjs.min.js
